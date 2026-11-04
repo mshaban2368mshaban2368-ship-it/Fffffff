@@ -1,0 +1,6 @@
+{
+  "name": "FA97 Chat",
+  "description": "WhatsApp-style messaging app with unique FA97 codes, QR friending, one-to-one and group chats, status stories, voice and video calls, and privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
